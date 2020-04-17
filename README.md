@@ -1,2 +1,2 @@
 # powershell-functions
-Useful bash functions
+Useful powershell functions
